@@ -22,3 +22,5 @@ Sales performance analysis
 Identifying trends
 Making data-driven decisions to improve sales*
 
+Link: https://medium.com/@hellonishantchamate/blinkit-data-analysis-project-using-power-bi-e6e2d6f3ab90
+
